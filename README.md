@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JasiekDrozd
-- 👀 I’m interested in Angular
-- 🌱 I’m currently learning GraphQL, C#
+- 👀 I’m interested in Angular, Nest JS
+- 🌱 I’m currently learning Rust
